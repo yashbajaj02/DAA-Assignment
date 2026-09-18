@@ -1,6 +1,11 @@
 # DAA Assignment — Algorithm Practice
 
-A collection of Data Structures and Algorithms solutions covering classic searching, sorting, array, and optimization problems.
+## 👨‍💻 Author
+
+**Yash Bajaj**  
+Roll No: 39 | Enrollment No: 2403051240104
+
+B.Tech CSE (AI) student exploring software development, algorithms, and AI/ML.
 
 ## 📚 Problems Included
 
@@ -12,24 +17,14 @@ A collection of Data Structures and Algorithms solutions covering classic search
 - Sort an Array
 - Kth Largest Element in an Array
 - Median of Two Sorted Arrays
+- Find Peak Element
+- Search in Rotated Sorted Array
 
 Each solution is organized by problem number and title to make the repository easy to navigate.
 
 ## 🎯 Purpose
 
-This repository was created for practicing algorithmic problem solving, understanding common DAA patterns, and keeping coursework solutions organized in one place.
+This repository was created for practicing algorithmic problem solving,for daa subject assignment
 
-## 🧠 Topics
 
-- Searching
-- Sorting
-- Arrays
-- Binary Search
-- Divide and Conquer
-- Algorithm Analysis
 
-## 👨‍💻 Author
-
-**Yash Bajaj**
-
-B.Tech CSE (AI) student exploring software development, algorithms, and AI/ML.
